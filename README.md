@@ -76,4 +76,4 @@ I'm particularly interested in:
 
 ### Let's connect
 
-I'm always open to conversations about **AI safety and governance**, **secure-by-design architectures**, and **building AI products that enterprises can actually trust**. Reach me on [LinkedIn](https://www.linkedin.com/in/rohitnirantar).
+I'm always open to conversations about **AI safety and governance**, **secure-by-design architectures**, and **building AI products that enterprises can actually trust**. Reach me on [LinkedIn](https://www.linkedin.com/in/rohit-nirantar/)).
