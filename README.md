@@ -74,16 +74,6 @@ I'm particularly interested in:
 
 ---
 
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitnirantar&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitnirantar&layout=compact&hide_border=true&theme=default" alt="Top languages" height="160"/>
-</p>
-
----
-
 ### Let's connect
 
 I'm always open to conversations about **AI safety and governance**, **secure-by-design architectures**, and **building AI products that enterprises can actually trust**. Reach me on [LinkedIn](https://www.linkedin.com/in/rohitnirantar).
